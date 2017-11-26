@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\227d308cdc5196628fa5573257de7329c5472e2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_3d1f91cdf057a9f28f929b784a8ae6de7737d30c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matts\.android\build-cache\227d308cdc5196628fa5573257de7329c5472e2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d1f91cdf057a9f28f929b784a8ae6de7737d30c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\cf9d48657d6ba94654cd83cf68cc934b1a2d1ae5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_257655e80e5bba025f597785b3f28199ee6652af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\165c4c4f61cd1e92c3811d03025be2d09c207d39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_8633ee1eeacddd0c0fcf70dd3512569d77f89dbe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matts\.android\build-cache\deeb62f1af22a5d0a8810cc79bac9e7a46f3aa5c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0925a2f499b0e55d7546ebf2c564320b22b5a812\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\4da5c6a07c725683b02374760139ddb5a63d4bf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_0dd464280e6ed56a073aec34f4e4ef0e3f5ee8eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\06b35788d0ea85e1f12d08882582f10b0b5d79ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_0384bf74112c47ab6f33dd8c547dadec2c341ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\deeb62f1af22a5d0a8810cc79bac9e7a46f3aa5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_0925a2f499b0e55d7546ebf2c564320b22b5a812.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matts\.android\build-cache\2796a6eed7968598e31cd9a972709cad0c45c3bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ffd229c262ad540b1bde58cea5a1bf0e9f1eca65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef59342625f67e579084159dccfd6ec19f4a12e5">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f78f2153d2337478b3438933e32de488b445d80d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\fd012b2aadf9bddc9c2de4d34612e2ad0fd95900\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_509b6c8be2c205d2276074fa18121bcafd039919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\75d8f9f2866f83d7edb41808886fac080f278baf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_4e94290de535a528d4fe4eed8a75ac79119e201b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\2796a6eed7968598e31cd9a972709cad0c45c3bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_ffd229c262ad540b1bde58cea5a1bf0e9f1eca65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\0a4ca16b7837fefd39e295514ea3f41bfe377e9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_09ab998b3ee297945bc1822ff380c6e81a00bd5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f6e6f23498d96e3a8f343fef2f7300a8b818e459\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\8cbe0fcf308a604b67976f494e02f9ce1a4a74ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_694d727b24685d5b088dcd798abd4dd951c08b0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\.android\build-cache\967e7e7eec9960a15f169ca7f0352660e83d4cf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\classes_47278fffb5bc5aa7bf1d5a7bcba80cd1309c6696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matts\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\matts\AndroidStudioProjects\GroceryCalculatorLite\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_71080acb419e15266164974b10782773c8fe32e5.jar" />
+    </item>
+
+</items>

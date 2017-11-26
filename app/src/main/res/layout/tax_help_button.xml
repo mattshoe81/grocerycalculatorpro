@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.25" />
+
+    <EditText
+        android:id="@+id/salesTaxValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.25"
+        android:ems="1"
+        android:hint="Sales Tax "
+        android:inputType="numberDecimal"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.25"
+        android:text="%"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/taxHelpButton"
+        android:layout_width="50dp"
+        android:layout_height="25dp"
+        android:background="@color/colorPrimary"
+        android:onClick="openTaxCalculator"
+        android:padding="0dp"
+        android:text="Help"
+        android:textColor="@android:color/background_light"
+        android:textSize="10dp" />
+</LinearLayout>

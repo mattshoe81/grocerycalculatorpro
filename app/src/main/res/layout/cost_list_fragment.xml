@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itemFragmentLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:orientation="horizontal"
+    android:outlineProvider="bounds"
+    app:elevation="24dp">
+
+    <TextView
+        android:id="@+id/itemText"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="6dp"
+        android:text="Item"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <Button
+        android:id="@+id/editButton"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="0dp"
+        android:background="@android:color/holo_green_dark"
+        android:text="Edit"
+        android:textColor="@android:color/background_light"
+        android:textSize="10dp"
+        app:layout_constraintBottom_toBottomOf="@+id/itemText"
+        app:layout_constraintLeft_toRightOf="@+id/itemText"
+        app:layout_constraintTop_toTopOf="@+id/itemText" />
+
+    <Button
+        android:id="@+id/removeButton"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="0dp"
+        android:background="@android:color/holo_red_dark"
+        android:text="X"
+        android:textColor="@android:color/background_light"
+        android:textSize="10dp"
+        app:layout_constraintBottom_toBottomOf="@+id/editButton"
+        app:layout_constraintLeft_toRightOf="@+id/editButton"
+        app:layout_constraintTop_toTopOf="@+id/editButton"
+        app:layout_constraintVertical_bias="0.0" />
+</android.support.constraint.ConstraintLayout>
